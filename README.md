@@ -1,4 +1,4 @@
-# jogos-digitais
+# Breakout Jogos Digitais
 
 Pedro Daher
 
